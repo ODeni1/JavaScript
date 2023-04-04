@@ -1,0 +1,36 @@
+body {
+    font-family: helvetica, sans-serif;
+    width: 350px;
+  }
+
+  label {
+    font-weight: bold;  
+  }
+
+  div {
+    padding-bottom: 20px;
+  }
+
+  input[type="text"] {
+    padding: 5px;
+    width: 150px;
+    border-radius: 5px;
+    border-style: solid;
+    text-align: center;
+  }
+
+  p {
+    background: lightseagreen;
+    color: white;
+    padding: 10px;
+    visibility: hidden;
+  }
+
+  .randomize {
+    border-radius: 40px;
+    width: 170px;
+    height: 30px;
+    background-color: lightslategray;
+    border: none;
+    color: white;
+  }
